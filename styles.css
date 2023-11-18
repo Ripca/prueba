@@ -4,9 +4,9 @@
 
 
 .caja{
-    width: 100px;
+    width: 500px;
     border-radius: 50%;
-    height: 100px;
+    height: 500px;
     background-color: hsl(214, 100%, var(--transparenc-e));
 
 }
