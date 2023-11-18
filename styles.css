@@ -4,7 +4,7 @@
 
 
 .caja{
-    width: 500px;
+    width: 300px;
     border-radius: 50%;
     height: 300px;
     background-color: hsl(214, 100%, var(--transparenc-e));
