@@ -1,12 +1,13 @@
 :root{
     --transparenc-e:30%;
+    --size:100px;
 }
 
 
 .caja{
-    width: 500px;
+    width: var(--size);
     border-radius: 50%;
-    height: 500px;
+    height: var(--size);
     background-color: hsl(214, 100%, var(--transparenc-e));
 
 }
