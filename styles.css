@@ -9,5 +9,6 @@
     border-radius: 50%;
     height: var(--size);
     background-color: hsl(214, 100%, var(--transparenc-e));
+    transition: all 1s
 
 }
